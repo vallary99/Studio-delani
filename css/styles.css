@@ -1,0 +1,105 @@
+.intro{
+    color: white;
+    text-align: center;
+    background-image: url('../images/h_img.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-top: 90px;
+}
+
+.about{
+    text-align: center;
+}
+
+.services{
+    color: white;
+    text-align: center;
+    background-image: url('../images/s_image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    padding-top: 90px;
+}
+
+.container{
+    padding-top: 50px;
+    align-items: center;
+}
+
+.what{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#design{
+    text-align: center;
+}
+
+#d-content{
+    display: none;
+    text-align: center;
+}
+
+#development{
+    text-align: center;
+}
+
+#de-content{
+    display: none;
+    text-align: center;
+}
+
+#product{
+    text-align: center;
+}
+
+#p-content{
+    display: none;
+    text-align: center;
+}
+
+.table{
+    margin-left: 60px;
+    position: relative;
+}
+
+.table img{
+    width: 280px;
+    height: 280px;  
+}
+
+.portfolio{
+    padding-top: 20px;
+    text-align: center;
+}
+
+#form{
+    background-image: url('../images/c_image.jpg');
+    text-align: center;
+    margin-top: 50px;
+}
+
+input{
+    background: none;
+    width: 480px;
+    border: none;
+}
+textarea{
+    background: none;
+}
+
+.border{
+    border: 1pt;
+    display: inline-table;
+}
+
+.icons{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.foot{
+    text-align: center;
+    margin-top: 50px;
+}

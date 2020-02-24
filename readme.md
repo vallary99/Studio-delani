@@ -4,7 +4,7 @@
 >This web appication is an advertisement for delani.It allows online hiring and booking of appointments.The languages used to develop this application are javascript,html and css including bootstrap and JQuery.
 
 ### Live link
-> https://vallary99.github.io/Studio-delani/
+>  https://vallary99.github.io/Studio-delani/
 
 ### CONTACTS
 >email:  vallaryotieno99@yahoo.com   vallaryotieno990@gmail.com

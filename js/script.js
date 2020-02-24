@@ -26,8 +26,11 @@ $(document).ready(function(){
     $("#p-content").hide();
     })
     
-    $(".portfolio img").hoover(function(){
-      $(".h6").show();
-    });
+    $(".container img").hover(function(){
+      $(this).find('.text').fadeIn(300);
+    }, function () {
+      $(this).find('.text').fadeOut(100);
+      }
+    );
    
 }) 

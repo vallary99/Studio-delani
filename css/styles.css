@@ -64,21 +64,26 @@
     position: relative;
 }
 
-.table img{
-    width: 280px;
-    height: 280px;  
-}
-
 .portfolio{
-    padding-top: 20px;
     text-align: center;
 }
 
-.h6{
+.container .row img{
+    padding-top: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.text{
     position: absolute;
-    margin-top: 100px;
-    color: white;
-    display: none;
+    text-align: center;
+    top: 35%;
+    left: 30%;
+    right: 30%;
+    color: black;
+    border: 1px solid white;
+    background-color: white;
+    
 }
 
 #form{

@@ -27,9 +27,7 @@ $(document).ready(function(){
     })
     
     $(".portfolio img").hoover(function(){
-      $(this).find(".h6").fadein(300);
-    },function(){
-      $(this).find(".h6").fadeout(100);
-    })
+      $(".h6").show();
+    });
    
 }) 

@@ -74,6 +74,10 @@
     text-align: center;
 }
 
+.portfolio .h6{
+    margin-bottom: 3000;
+}
+
 #form{
     background-image: url('../images/c_image.jpg');
     text-align: center;

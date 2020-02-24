@@ -22,12 +22,12 @@
     padding-top: 90px;
 }
 
-.container{
+.what{
     padding-top: 50px;
     align-items: center;
 }
 
-.what{
+.what text{
     text-align: center;
     padding-top: 20px;
 }
@@ -64,14 +64,13 @@
     position: relative;
 }
 
-.portfolio{
-    text-align: center;
-}
-
-.container .row img{
+.portfolio .container .row img{
     padding-top: 20px;
     text-align: center;
     width: 100%;
+}
+.portfolio h3{
+    text-align: center;
 }
 
 .text{

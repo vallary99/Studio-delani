@@ -26,7 +26,7 @@ $(document).ready(function(){
     $("#p-content").hide();
     })
     
-    $(".container img").hover(function(){
+    $(".container .row img").hover(function(){
       $(this).find('.text').fadeIn(300);
     }, function () {
       $(this).find('.text').fadeOut(100);

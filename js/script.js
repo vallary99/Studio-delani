@@ -26,11 +26,15 @@ $(document).ready(function(){
     $("#p-content").hide();
     })
     
-    $(".container .row img").hover(function(){
-      $(this).find('.text').fadeIn(300);
-    }, function () {
-      $(this).find('.text').fadeOut(100);
-      }
-    );
+    $("#img").hover(function(){
+    $(".text").toggle()
+
+    })
+    //$(".portfolio #img").hover(function(){
+      //$(this).find(".text").fadeIn(300);
+    //}, function () {
+     // $(this).find(".text").fadeOut(100);
+     // }
+    //);
    
 }) 
